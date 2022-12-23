@@ -1,0 +1,163 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+#divl {
+    
+    height: 450px;
+}
+.Bruhh {
+    position: relative;
+    left: 440px;
+    bottom: 35px;
+    display: inline-block;
+    font-size: 45px;
+    font-family: 'Raleway', sans-serif;
+    vertical-align: top;
+    
+}
+.Main-input{
+   position: relative;
+   left: 248px;
+   top: 50px;
+   height: 40px;
+   width: 520px;
+   border-radius: 7px;
+   outline: none;
+   border: none;
+   background-color: white;
+   font-size: 25px;
+   font-family: 'Raleway', sans-serif;
+   color: rgb(117,117,107);
+   vertical-align: top;
+   height: 51px;
+   width: 500px;
+   
+}
+.Main-btn {
+    position: relative;
+    left: 250px;
+    top: 49px;
+    width: 150px;
+    height: 44px;
+    border-radius: 7px;
+    color: red;
+    font-size: 20px;
+    background-color: white;
+    outline: none;
+    border: none;
+    transition-duration: 0.4s;
+    opacity: 0.8;
+    font-family: 'Raleway', sans-serif;
+    vertical-align: top;
+}
+.Main-btn:hover {
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    opacity: 1;
+}
+.paragraph-styling {
+    margin: 0;
+    cursor: pointer;
+    font-size: 25px;
+    cursor: pointer;
+}
+#tasks {
+    width: 520px;
+    height: 250px;
+    position: relative;
+    left: 445px;
+    top: 100px;
+}
+
+.r {
+    display: inline-block;
+    position: relative;
+    right: 435px;
+    top: 120px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 35px;
+    
+}
+
+#example {
+    position: relative;
+    left: 440px;
+    top: 50px;
+    height: 40px;
+    width: 690px;
+    border-radius: 7px;
+    outline: none;
+    border: none;
+    background-color: white;
+    font-size: 25px;
+    font-family: 'Raleway', sans-serif;
+    color: rgb(117,117,107);
+}
+
+.todo-container {
+    position: relative;
+    top: 325px;
+    right: 480px;
+    display: inline-block;
+    width: 750px;
+    
+}
+
+.editstyle {
+    position: relative;
+    left: 1440px;
+    bottom: 520px;
+    height: 25px;
+    width: 50px;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 20px;
+    text-align: center;
+    background-color: transparent;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    border: none;
+    outline: none;
+   
+}
+.editstyle:hover {
+    color: blue;
+}
+.delstyle {
+    position: relative;
+    left: 1450px;
+    bottom: 520px;
+    height: 25px;
+    width: 55px;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 20px;
+    text-align: center;
+    background-color: transparent;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    transition-duration: 0.4s;
+   
+}
+.delstyle:hover {
+    color: red;
+}
+.todo-item{
+    position: relative;
+    left: 880px;
+    bottom: 480px;
+    background-color: white;
+    height: 40px;
+    border-radius: 8px;
+    font-size: 25px;
+    margin: 8px;
+    color: rgb(117,117,107);
+    font-family: 'Raleway', sans-serif;
+    display: block;
+}
+
+.todo {
+   justify-content: space-between;
+}
